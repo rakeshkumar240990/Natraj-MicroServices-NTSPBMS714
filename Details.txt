@@ -2,7 +2,6 @@ start class : 30/11/2021
 Subject MicroService 
 Batch-NTSPBMS714
 GitHub:- https://github.com/natarazworld/NTSPBMS714
-Playlist :-
-https://youtube.com/playlist?list=PLqP46fMnVDRbB7m_KkgkAW_a7cUT3oU6u
+
 
 ========================================================
